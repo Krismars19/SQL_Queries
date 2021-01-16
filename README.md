@@ -2,7 +2,7 @@
 This repo contains SQL, Python and Visualization(Tableau, Power BI, Python) projects
 
 Building Repos
-- Title:
+- Title
 - Table of contents
   - Purpose
   - Files
