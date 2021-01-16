@@ -1,2 +1,2 @@
-# Data-Anaysis
-This repo contain SQL, Python and Visualization projects
+# Data Anaysis
+This repo contains SQL, Python and Visualization projects
