@@ -1,0 +1,310 @@
+year,category,movie,winner
+1936.0,actress,The Great Ziegfeld,true
+1936.0,actress in a supporting role,Anthony Adverse,true
+1936.0,actor,The Story of Louis Pasteur,true
+1936.0,actor in a supporting role,Come and Get It,true
+1937.0,actress,The Good Earth,true
+1937.0,actor in a supporting role,The Life of Emile Zola,true
+1937.0,actress in a supporting role,In Old Chicago,true
+1937.0,actor,Captains Courageous,true
+1938.0,actress in a supporting role,Jezebel,true
+1938.0,actress,Jezebel,true
+1938.0,actor in a supporting role,Kentucky,true
+1938.0,actor,Boys Town,true
+1939.0,actor,"Goodbye, Mr. Chips",true
+1939.0,actor in a supporting role,Stagecoach,true
+1939.0,actress in a supporting role,Gone with the Wind,true
+1939.0,actress,Gone with the Wind,true
+1940.0,actor in a supporting role,The Westerner,true
+1940.0,actress in a supporting role,The Grapes of Wrath,true
+1940.0,actor,The Philadelphia Story,true
+1940.0,actress,Kitty Foyle,true
+1941.0,actress in a supporting role,The Great Lie,true
+1941.0,actor,Sergeant York,true
+1941.0,actor in a supporting role,How Green Was My Valley,true
+1941.0,actress,Suspicion,true
+1942.0,actress in a supporting role,Mrs. Miniver,true
+1942.0,actor,Yankee Doodle Dandy,true
+1942.0,actress,Mrs. Miniver,true
+1942.0,actor in a supporting role,Johnny Eager,true
+1943.0,actress,The Song of Bernadette,true
+1943.0,actor in a supporting role,The More the Merrier,true
+1943.0,actor,Watch on the Rhine,true
+1943.0,actress in a supporting role,For Whom the Bell Tolls,true
+1944.0,actor in a supporting role,Going My Way,true
+1944.0,actress in a supporting role,None but the Lonely Heart,true
+1944.0,actor,Going My Way,true
+1944.0,actress,Gaslight,true
+1945.0,actress in a supporting role,National Velvet,true
+1945.0,actress,Mildred Pierce,true
+1945.0,actor,The Lost Weekend,true
+1945.0,actor in a supporting role,A Tree Grows in Brooklyn,true
+1946.0,actress in a supporting role,The Razor's Edge,true
+1946.0,actress,To Each His Own,true
+1946.0,actor,The Best Years of Our Lives,true
+1946.0,actor in a supporting role,The Best Years of Our Lives,true
+1947.0,actress,The Farmer's Daughter,true
+1947.0,actor,A Double Life,true
+1947.0,actress in a supporting role,Gentleman's Agreement,true
+1947.0,actor in a supporting role,Miracle on 34th Street,true
+1948.0,actor,Hamlet,true
+1948.0,actor in a supporting role,The Treasure of the Sierra Madre,true
+1948.0,actress in a supporting role,Key Largo,true
+1948.0,actress,Johnny Belinda,true
+1949.0,actor in a supporting role,Twelve O'Clock High,true
+1949.0,actress in a supporting role,All the King's Men,true
+1949.0,actress,The Heiress,true
+1949.0,actor,All the King's Men,true
+1950.0,actor in a supporting role,All about Eve,true
+1950.0,actress,Born Yesterday,true
+1950.0,actress in a supporting role,Harvey,true
+1950.0,actor,Cyrano de Bergerac,true
+1951.0,actress,A Streetcar Named Desire,true
+1951.0,actor in a supporting role,A Streetcar Named Desire,true
+1951.0,actress in a supporting role,A Streetcar Named Desire,true
+1951.0,actor,The African Queen,true
+1952.0,actor in a supporting role,Viva Zapata!,true
+1952.0,actress,"Come Back, Little Sheba",true
+1952.0,actor,High Noon,true
+1952.0,actress in a supporting role,The Bad and the Beautiful,true
+1953.0,actress in a supporting role,From Here to Eternity,true
+1953.0,actor in a supporting role,From Here to Eternity,true
+1953.0,actor,Stalag 17,true
+1953.0,actress,Roman Holiday,true
+1954.0,actor,On the Waterfront,true
+1954.0,actor in a supporting role,The Barefoot Contessa,true
+1954.0,actress in a supporting role,On the Waterfront,true
+1954.0,actress,The Country Girl,true
+1955.0,actress,The Rose Tattoo,true
+1955.0,actor in a supporting role,Mister Roberts,true
+1955.0,actor,Marty,true
+1955.0,actress in a supporting role,East of Eden,true
+1956.0,actor,The King and I,true
+1956.0,actress,Anastasia,true
+1956.0,actor in a supporting role,Lust for Life,true
+1956.0,actress in a supporting role,Written on the Wind,true
+1957.0,actress,The Three Faces of Eve,true
+1957.0,actress in a supporting role,Sayonara,true
+1957.0,actor in a supporting role,Sayonara,true
+1957.0,actor,The Bridge on the River Kwai,true
+1958.0,actor,Separate Tables,true
+1958.0,actress,I Want to Live!,true
+1958.0,actor in a supporting role,The Big Country,true
+1958.0,actress in a supporting role,Separate Tables,true
+1959.0,actress,Room at the Top,true
+1959.0,actress in a supporting role,The Diary of Anne Frank,true
+1959.0,actor,Ben-Hur,true
+1959.0,actor in a supporting role,Ben-Hur,true
+1960.0,actress,Butterfield 8,true
+1960.0,actor in a supporting role,Spartacus,true
+1960.0,actor,Elmer Gantry,true
+1960.0,actress in a supporting role,Elmer Gantry,true
+1961.0,actress,Two Women,true
+1961.0,actor,Judgment at Nuremberg,true
+1961.0,actor in a supporting role,West Side Story,true
+1961.0,actress in a supporting role,West Side Story,true
+1962.0,actor in a supporting role,Sweet Bird of Youth,true
+1962.0,actress,The Miracle Worker,true
+1962.0,actor,To Kill a Mockingbird,true
+1962.0,actress in a supporting role,The Miracle Worker,true
+1963.0,actress,Hud,true
+1963.0,actor in a supporting role,Hud,true
+1963.0,actress in a supporting role,The V.I.P.s,true
+1963.0,actor,Lilies of the Field,true
+1964.0,actor,My Fair Lady,true
+1964.0,actor in a supporting role,Topkapi,true
+1964.0,actress,Mary Poppins,true
+1964.0,actress in a supporting role,Zorba the Greek,true
+1965.0,actress in a supporting role,A Patch of Blue,true
+1965.0,actor in a supporting role,A Thousand Clowns,true
+1965.0,actress,Darling,true
+1965.0,actor,Cat Ballou,true
+1966.0,actor in a supporting role,The Fortune Cookie,true
+1966.0,actress in a supporting role,Who's Afraid of Virginia Woolf?,true
+1966.0,actress,Who's Afraid of Virginia Woolf?,true
+1966.0,actor,A Man for All Seasons,true
+1967.0,actress,Guess Who's Coming to Dinner,true
+1967.0,actor,In the Heat of the Night,true
+1967.0,actor in a supporting role,Cool Hand Luke,true
+1967.0,actress in a supporting role,Bonnie and Clyde,true
+1968.0,actress,The Lion in Winter,true
+1968.0,actress,Funny Girl,true
+1968.0,actor,Charly,true
+1968.0,actress in a supporting role,Rosemary's Baby,true
+1968.0,actor in a supporting role,The Subject Was Roses,true
+1969.0,actress,The Prime of Miss Jean Brodie,true
+1969.0,actor,True Grit,true
+1969.0,actor in a supporting role,"They Shoot Horses, Don't They?",true
+1969.0,actress in a supporting role,Cactus Flower,true
+1970.0,actor in a supporting role,Ryan's Daughter,true
+1970.0,actress in a supporting role,Airport,true
+1970.0,actress,Women in Love,true
+1970.0,actor,Patton,true
+1971.0,actor,The French Connection,true
+1971.0,actress in a supporting role,The Last Picture Show,true
+1971.0,actress,Klute,true
+1971.0,actor in a supporting role,The Last Picture Show,true
+1972.0,actress,Cabaret,true
+1972.0,actress in a supporting role,Butterflies Are Free,true
+1972.0,actor,The Godfather,true
+1972.0,actor in a supporting role,Cabaret,true
+1973.0,actress in a supporting role,Paper Moon,true
+1973.0,actor,Save the Tiger,true
+1973.0,actress,A Touch of Class,true
+1973.0,actor in a supporting role,The Paper Chase,true
+1974.0,actress in a supporting role,Murder on the Orient Express,true
+1974.0,actress,Alice Doesn't Live Here Anymore,true
+1974.0,actor,Harry and Tonto,true
+1974.0,actor in a supporting role,The Godfather Part II,true
+1975.0,actress,One Flew over the Cuckoo's Nest,true
+1975.0,actor in a supporting role,The Sunshine Boys,true
+1975.0,actor,One Flew over the Cuckoo's Nest,true
+1975.0,actress in a supporting role,Shampoo,true
+1976.0,actor in a leading role,Network,true
+1976.0,actress in a leading role,Network,true
+1976.0,actor in a supporting role,All the President's Men,true
+1976.0,actress in a supporting role,Network,true
+1977.0,actress in a leading role,Annie Hall,true
+1977.0,actor in a supporting role,Julia,true
+1977.0,actress in a supporting role,Julia,true
+1977.0,actor in a leading role,The Goodbye Girl,true
+1978.0,actor in a leading role,Coming Home,true
+1978.0,actress in a supporting role,California Suite,true
+1978.0,actress in a leading role,Coming Home,true
+1978.0,actor in a supporting role,The Deer Hunter,true
+1979.0,actress in a supporting role,Kramer vs. Kramer,true
+1979.0,actress in a leading role,Norma Rae,true
+1979.0,actor in a supporting role,Being There,true
+1979.0,actor in a leading role,Kramer vs. Kramer,true
+1980.0,actress in a supporting role,Melvin and Howard,true
+1980.0,actor in a leading role,Raging Bull,true
+1980.0,actress in a leading role,Coal Miner's Daughter,true
+1980.0,actor in a supporting role,Ordinary People,true
+1981.0,actress in a supporting role,Reds,true
+1981.0,actor in a leading role,On Golden Pond,true
+1981.0,actor in a supporting role,Arthur,true
+1981.0,actress in a leading role,On Golden Pond,true
+1982.0,actress in a supporting role,Tootsie,true
+1982.0,actress in a leading role,Sophie's Choice,true
+1982.0,actor in a leading role,Gandhi,true
+1982.0,actor in a supporting role,An Officer and a Gentleman,true
+1983.0,actor in a supporting role,Terms of Endearment,true
+1983.0,actress in a supporting role,The Year of Living Dangerously,true
+1983.0,actress in a leading role,Terms of Endearment,true
+1983.0,actor in a leading role,Tender Mercies,true
+1984.0,actor in a leading role,Amadeus,true
+1984.0,actress in a leading role,Places in the Heart,true
+1984.0,actress in a supporting role,A Passage to India,true
+1984.0,actor in a supporting role,The Killing Fields,true
+1985.0,actress in a leading role,The Trip to Bountiful,true
+1985.0,actor in a supporting role,Cocoon,true
+1985.0,actor in a leading role,Kiss of the Spider Woman,true
+1985.0,actress in a supporting role,Prizzi's Honor,true
+1986.0,actress in a supporting role,Hannah and Her Sisters,true
+1986.0,actor in a supporting role,Hannah and Her Sisters,true
+1986.0,actress in a leading role,Children of a Lesser God,true
+1986.0,actor in a leading role,The Color of Money,true
+1987.0,actor in a supporting role,The Untouchables,true
+1987.0,actress in a leading role,Moonstruck,true
+1987.0,actor in a leading role,Wall Street,true
+1987.0,actress in a supporting role,Moonstruck,true
+1988.0,actress in a supporting role,The Accidental Tourist,true
+1988.0,actor in a leading role,Rain Man,true
+1988.0,actor in a supporting role,A Fish Called Wanda,true
+1988.0,actress in a leading role,The Accused,true
+1989.0,actress in a leading role,Driving Miss Daisy,true
+1989.0,actress in a supporting role,My Left Foot,true
+1989.0,actor in a leading role,My Left Foot,true
+1989.0,actor in a supporting role,Glory,true
+1990.0,actor in a supporting role,Good Fellas,true
+1990.0,actress in a supporting role,Ghost,true
+1990.0,actor in a leading role,Reversal of Fortune,true
+1990.0,actress in a leading role,Misery,true
+1991.0,actress in a leading role,The Silence of the Lambs,true
+1991.0,actor in a leading role,The Silence of the Lambs,true
+1991.0,actor in a supporting role,City Slickers,true
+1991.0,actress in a supporting role,The Fisher King,true
+1992.0,actress in a leading role,Howards End,true
+1992.0,actor in a supporting role,Unforgiven,true
+1992.0,actress in a supporting role,My Cousin Vinny,true
+1992.0,actor in a leading role,Scent of a Woman,true
+1993.0,actress in a supporting role,The Piano,true
+1993.0,actress in a leading role,The Piano,true
+1993.0,actor in a leading role,Philadelphia,true
+1993.0,actor in a supporting role,The Fugitive,true
+1994.0,actress in a supporting role,Bullets over Broadway,true
+1994.0,actor in a supporting role,Ed Wood,true
+1994.0,actor in a leading role,Forrest Gump,true
+1994.0,actress in a leading role,Blue Sky,true
+1995.0,actor in a supporting role,The Usual Suspects,true
+1995.0,actress in a leading role,Dead Man Walking,true
+1995.0,actor in a leading role,Leaving Las Vegas,true
+1995.0,actress in a supporting role,Mighty Aphrodite,true
+1996.0,actress in a leading role,Fargo,true
+1996.0,actor in a leading role,Shine,true
+1996.0,actress in a supporting role,The English Patient,true
+1996.0,actor in a supporting role,Jerry Maguire,true
+1997.0,actor in a leading role,As Good as It Gets,true
+1997.0,actress in a leading role,As Good as It Gets,true
+1997.0,actress in a supporting role,L.A. Confidential,true
+1997.0,actor in a supporting role,Good Will Hunting,true
+1998.0,actress in a leading role,Shakespeare in Love,true
+1998.0,actress in a supporting role,Shakespeare in Love,true
+1998.0,actor in a supporting role,Affliction,true
+1998.0,actor in a leading role,Life Is Beautiful,true
+1999.0,actress in a supporting role,"Girl, Interrupted",true
+1999.0,actor in a leading role,American Beauty,true
+1999.0,actress in a leading role,Boys Don't Cry,true
+1999.0,actor in a supporting role,The Cider House Rules,true
+2000.0,actress in a leading role,Erin Brockovich,true
+2000.0,actor in a leading role,Gladiator,true
+2000.0,actress in a supporting role,Pollock,true
+2000.0,actor in a supporting role,Traffic,true
+2001.0,actor in a leading role,Training Day,true
+2001.0,actor in a supporting role,Iris,true
+2001.0,actress in a leading role,Monster's Ball,true
+2001.0,actress in a supporting role,A Beautiful Mind,true
+2002.0,actor in a supporting role,Adaptation,true
+2002.0,actress in a leading role,The Hours,true
+2002.0,actor in a leading role,The Pianist,true
+2002.0,actress in a supporting role,Chicago,true
+2003.0,actress in a supporting role,Cold Mountain,true
+2003.0,actor in a supporting role,Mystic River,true
+2003.0,actor in a leading role,Mystic River,true
+2003.0,actress in a leading role,Monster,true
+2004.0,actress in a leading role,Million Dollar Baby,true
+2004.0,actor in a leading role,Ray,true
+2004.0,actress in a supporting role,The Aviator,true
+2004.0,actor in a supporting role,Million Dollar Baby,true
+2005.0,actor in a leading role,Capote,true
+2005.0,actress in a leading role,Walk the Line,true
+2005.0,actress in a supporting role,The Constant Gardener,true
+2005.0,actor in a supporting role,Syriana,true
+2006.0,actress in a supporting role,Dreamgirls,true
+2006.0,actress in a leading role,The Queen,true
+2006.0,actor in a leading role,The Last King of Scotland,true
+2006.0,actor in a supporting role,Little Miss Sunshine,true
+2007.0,actor in a supporting role,No Country for Old Men,true
+2007.0,actress in a leading role,La Vie en Rose,true
+2007.0,actor in a leading role,There Will Be Blood,true
+2007.0,actress in a supporting role,Michael Clayton,true
+2008.0,actor in a supporting role,The Dark Knight,true
+2008.0,actor in a leading role,Milk,true
+2008.0,actress in a supporting role,Vicky Cristina Barcelona,true
+2008.0,actress in a leading role,The Reader,true
+2009.0,actress in a leading role,The Blind Side,true
+2009.0,actress in a supporting role,Precious: Based on the Novel 'Push' by Sapphire,true
+2009.0,actor in a leading role,Crazy Heart,true
+2009.0,actor in a supporting role,Inglourious Basterds,true
+2010.0,actress in a leading role,Black Swan,true
+2010.0,actress in a supporting role,The Fighter,true
+2010.0,actor in a supporting role,The Fighter,true
+2010.0,actor in a leading role,The King's Speech,true
+2011.0,actor in a leading role,The Artist,true
+2011.0,actress in a supporting role,The Help,true
+2011.0,actor in a supporting role,Beginners,true
+2011.0,actress in a leading role,The Iron Lady,true
+2012.0,actress in a leading role,Silver Linings Playbook,true
+2012.0,actress in a supporting role,Les Mis_rables,true
+2012.0,actor in a supporting role,Django Unchained,true
+2012.0,actor in a leading role,Lincoln,true
