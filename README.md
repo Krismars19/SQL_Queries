@@ -18,6 +18,7 @@ Steps for building projects (SQL, Python, Machine Learning)
 
 SQL Focus
 There are core ideas that matter most, particularly in interviews:
+- [SQL Interview Questions](https://www.interviewbit.com/sql-interview-questions/)
 
 1. CASE WHEN. Shows up all the time.
 2. Self joins. Common in product.
