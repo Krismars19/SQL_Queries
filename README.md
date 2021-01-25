@@ -16,12 +16,6 @@ Building Repos
  - Data (Files)
  - Author
   
-Steps for building projects (SQL, Python, Machine Learning)
-1. Problem
-2. Method
-3. Approach
-
-
 SQL Focus
 There are core ideas that matter most, particularly in interviews:
 - [SQL Interview Questions](https://www.interviewbit.com/sql-interview-questions/)
