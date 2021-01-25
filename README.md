@@ -1,6 +1,9 @@
 # Data Anaysis
 This repo contains SQL, Python and Visualization(Tableau, Power BI, Python) projects
 
+## Tableau Resources
+- [Data + Science](http://www.dataplusscience.com/TableauReferenceGuide/)
+
 ## Big Query resources
 - [Google query tutorial](https://cloud.google.com/bigquery/docs/tutorials)
 - [Visualizing in Notebook](https://cloud.google.com/bigquery/docs/visualize-jupyter)
