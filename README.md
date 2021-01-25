@@ -1,6 +1,12 @@
 # Data Anaysis
 This repo contains SQL, Python and Visualization(Tableau, Power BI, Python) projects
 
+## Big Query resources
+- [Google query tutorial](https://cloud.google.com/bigquery/docs/tutorials)
+- [Visualizing in Notebook](https://cloud.google.com/bigquery/docs/visualize-jupyter)
+- [Big Query cookbook](https://support.google.com/analytics/answer/4419694?hl=en)
+- [Learn BigQuerySQL](https://codingisforlosers.com/learn-bigquery-sql/)
+
 Building Repos
 - Title
 - Table of contents
