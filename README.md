@@ -1,7 +1,7 @@
-# SQL Queries
-This repo contains SQL queries and data extracted
+## SQL Queries
+This repo contains SQL queries and the data extracted
 
-Queries
+## Queries
 1. [City population](https://github.com/Krismars19/SQL_Queries/tree/main/City_population)
     - Contains query and data extracted from [Mode](https://app.mode.com) platform for the population of US cities
 2. [Crime data](https://github.com/Krismars19/SQL_Queries/tree/main/Crimes_Data)
