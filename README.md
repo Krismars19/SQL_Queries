@@ -13,8 +13,6 @@ This repo contains SQL queries and the data extracted
 4. [Oscar winners](https://github.com/Krismars19/SQL_Queries/tree/main/Oscar_winners)
     - Contains query and data extracted from [Mode](https://app.mode.com) platform for Oscar winners
     - Extracted Oscar winners data from the year 1936 to 2012 and order by the year
-    
-5. [Google BigQuery]()
 
 ## Resources
 - [SQL Interface within JupyterLab](https://www.datacamp.com/community/tutorials/sql-interface-within-jupyterlab)
