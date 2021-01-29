@@ -14,7 +14,7 @@ This repo contains SQL queries and the data extracted
     - Contains query and data extracted from [Mode](https://app.mode.com) platform for Oscar winners
     - Extracted Oscar winners data from the year 1936 to 2012 and order by the year
 
-## Resources
+## Other Resources
 - [SQL Interface within JupyterLab](https://www.datacamp.com/community/tutorials/sql-interface-within-jupyterlab)
 - [Run SQL in Jupyter Notebooks](https://towardsdatascience.com/heres-how-to-run-sql-in-jupyter-notebooks-f26eb90f3259)
 - [SQL queries from a Jupyter Notebook](https://towardsdatascience.com/how-to-run-sql-queries-from-a-jupyter-notebook-aaa18e59e7bc)
